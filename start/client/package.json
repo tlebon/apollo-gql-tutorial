@@ -15,7 +15,7 @@
     "react-apollo": "^2.5.1",
     "react-dom": "^16.5.2",
     "react-emotion": "^9.2.12",
-    "react-scripts": "2.0.4"
+    "react-scripts": "^2.1.8"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -33,7 +33,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "apollo": "^2.5.3",
+    "apollo": "^2.6.2",
     "jest-dom": "^2.1.0",
     "react-testing-library": "^5.2.3"
   }
